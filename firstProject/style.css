@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: arial, sans-serif;
+}
+
+nav {
+    background: #234465;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+nav ul {
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    padding: 0 20px;
+
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 40px;
+    color: green
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+}
